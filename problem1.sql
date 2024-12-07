@@ -1,0 +1,1 @@
+Create View firstname_lastname as Select firstname, lastname From site_user; 
